@@ -13,6 +13,9 @@ This is a simple web application that allows users to generate colored text simi
 - React.js: Frontend framework for building the user interface.
 - Chakra UI: Component library for styling the UI elements.
 
+# Demo
+https://clash-of-clans-text-generator.vercel.app/
+
 ## Installation and Setup
 
 1. Clone the repository:
